@@ -1,0 +1,9 @@
+author = Crimson Eye and the Dev Team
+version = beta
+displayName = Operation: Decode
+homepage = 
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = .gitignore, *.sln, *.csproj, *.user, obj\*, bin\*, .vs\*, Properties\*, .git\*
+includePDB = true
